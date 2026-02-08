@@ -7,16 +7,16 @@
 - [[LEARNING_SYSTEM_TEMPLATE]]
 
 ## Psychology (General)
-- [[_import/folders/learning-systems/psychology-general/system]]
-- [[_import/folders/learning-systems/psychology-general/resources]]
-- [[_import/folders/learning-systems/psychology-general/progress]]
+- [[learning-systems/psychology-general/system]]
+- [[learning-systems/psychology-general/resources]]
+- [[learning-systems/psychology-general/progress]]
 
 ### Psychology → Anki
-- [[_import/folders/learning-systems/psychology-general/anki/README]]
-- [[_import/folders/learning-systems/psychology-general/anki/week-01]]
-- [[_import/folders/learning-systems/psychology-general/anki/week-01-v2]]
-- [[_import/folders/learning-systems/psychology-general/anki/week-02]]
+- [[learning-systems/psychology-general/anki/README]]
+- [[learning-systems/psychology-general/anki/week-01]]
+- [[learning-systems/psychology-general/anki/week-01-v2]]
+- [[learning-systems/psychology-general/anki/week-02]]
 
 ## 索引
-- [[_import/folders/learning-systems/INDEX]]
+- [[learning-systems/INDEX]]
 - [[projects/INDEX]]

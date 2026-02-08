@@ -13,5 +13,5 @@
 - [[DTD-002-完成報告]]
 
 ## Folders
-- [[_import/folders/learning-systems]]
+- - [[learning-systems/INDEX]]
 - [[_import/folders/prompts]]
