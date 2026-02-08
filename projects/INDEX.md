@@ -8,6 +8,7 @@ This folder contains **Single Source of Truth (SSoT)** documents: the authoritat
 - `projects/daily-memory-format.md` — Daily memory format rule (deltas only)
 - `projects/daily-tech-digest.md` — Daily tech digest system (definition, rules, outputs)
 - `projects/daily-econ-invest-digest.md` — Daily econ & investing digest system (definition, rules, outputs)
+- `projects/daily-econ-invest-digest-items-json.md` — DEID: Researcher → items.json spec
 
 ### Learning Systems
 - `projects/learning-system-builder-template.md` — Learning System Builder Template governance (when/how we use the template; required diagnosis questions)
