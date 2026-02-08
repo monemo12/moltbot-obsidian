@@ -1,0 +1,5 @@
+.ankiweb_config
+*.log
+anki.log
+*.pyc
+__pycache__/

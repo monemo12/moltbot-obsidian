@@ -1,0 +1,30 @@
+# Week 1 (bilingual) - Format: Front[TAB]Back[TAB]Tags
+# Design note: avoid “orphan vocabulary”. Each key term includes: focus + method/claim + a contrast cue.
+
+What is psychology?（什麼是心理學？）	Psychology is the scientific study of behavior and mental processes.<br><br>中文重點：心理學＝以科學方法研究「行為」與「心理歷程」。	psychology-basics week-01
+What are the three key components of psychology's definition?（心理學定義的三要素？）	1) Scientific (systematic methods), 2) Behavior (observable actions), 3) Mental processes (thoughts, feelings, memories).<br><br>中文重點：科學方法／可觀察行為／內在心理歷程（想法、情緒、記憶）。	psychology-basics week-01
+Why is psychology considered a science?（為何心理學是科學？）	Because it tests claims empirically using systematic methods (e.g., observation, experimentation), not just common sense.<br><br>中文重點：強調「經驗證據」與「可檢驗的方法」。	psychology-basics week-01
+
+Structuralism: what was the goal?（結構主義的目標？）	Goal: identify the “structure” of consciousness by breaking it into basic elements (sensations, feelings).<br>Method: introspection (reporting inner experience).<br><br>Cue: asks “mind is made of what?”（心智由什麼組成？）	structuralism historical-perspectives week-01
+Structuralism: what was the main limitation?（結構主義的主要限制？）	Too subjective: introspection reports varied widely across people → low reliability/replicability.<br><br>中文重點：內省太主觀、難以一致與重現。	structuralism historical-perspectives week-01
+Functionalism: core idea in one sentence?（功能主義一句話？）	Focus: the function/purpose of consciousness and behavior (how they help adaptation).<br><br>Cue: asks “mind is for what?”（心智拿來做什麼/有什麼用？）	functionalism historical-perspectives week-01
+How did Functionalism differ from Structuralism?（功能主義 vs 結構主義：差在哪一軸？）	Structuralism = content/structure of mind (what it is made of) via introspection.<br>Functionalism = purpose/function (what it is for; adaptation) in real life.<br><br>中文重點：結構＝由什麼組成；功能＝有什麼用。	functionalism structuralism distinction week-01
+Which perspective fits this focus: “break conscious experience into basic sensations”?（拆成基本感覺元素是哪派？）	Structuralism — because it analyzes the structure/components of consciousness.<br><br>中文提示：拆解元素＝結構主義。	structuralism application week-01
+Which perspective fits this focus: “what is the purpose of attention/memory for survival”?（問用途/適應是哪派？）	Functionalism — because it explains the function/purpose of mental processes for adaptation.<br><br>中文提示：用途/適應＝功能主義。	functionalism application week-01
+
+Behaviorism: what did it reject and why?（行為主義拒絕什麼？為什麼？）	It rejected studying consciousness because it was too subjective; it focused on observable behavior only.<br><br>中文重點：只看可觀察行為，不研究意識內容。	behaviorism historical-perspectives week-01
+Behaviorism: key idea in one sentence?（行為主義一句話？）	Behavior is learned via conditioning; the environment shapes behavior through rewards (reinforcement) and punishments.<br><br>中文重點：制約學習；增強/懲罰塑造行為。	behaviorism historical-perspectives week-01
+Cognitive Revolution: what did it bring back?（認知革命帶回了什麼？）	The scientific study of mental processes (thinking, memory, problem-solving) using testable models.<br><br>中文重點：回到「可研究的心智歷程」。	cognitive-revolution historical-perspectives week-01
+
+Name three contemporary approaches in psychology.（說出三個現代取向）	Any three of: Biological, Cognitive, Behavioral, Humanistic, Psychodynamic, Sociocultural.<br><br>中文重點：生物/認知/行為/人本/心理動力/社會文化（任三）。	contemporary-approaches week-01
+Biological approach: focus + typical explanation?（生物取向看什麼？）	Focus: brain, nervous system, hormones, genes → how biology influences behavior/mental processes.<br><br>Cue: “brain/genes/chemistry”.（大腦、基因、腦化學）	biological contemporary-approaches week-01
+Cognitive approach: focus + typical explanation?（認知取向研究什麼？）	Focus: mental processes (thinking, memory, perception, decision-making).<br><br>Cue: “information processing”.（訊息處理）	cognitive contemporary-approaches week-01
+Humanistic approach: focus + typical explanation?（人本取向的重點？）	Focus: human potential, personal growth, self-actualization, free will.<br><br>Cue: “meaning, growth, choice”.（意義、成長、選擇）	humanistic contemporary-approaches week-01
+What is the Biopsychosocial Model?（生物－心理－社會模式是什麼？）	Many psychological phenomena are best explained by interacting Biological + Psychological + Social factors.<br><br>中文重點：三層互動一起看。	biopsychosocial contemporary-approaches week-01
+
+Application: Biological approach explains depression how?（用生物取向解釋憂鬱）	Emphasize genetic vulnerability + brain chemistry / neurotransmitter differences (and related brain circuits).<br><br>中文重點：基因＋腦化學。	biological application week-01
+Application: Sociocultural approach explains “normal behavior” differences how?（社會文化取向怎麼看「正常」差異？）	“Normal” varies across cultures due to cultural values (e.g., individualism vs collectivism) and social contexts.<br><br>中文重點：文化價值與社會情境形塑正常。	sociocultural application week-01
+Application: A student procrastinates before exams—give 2 perspectives.（考前拖延：兩種取向解釋）	Behavioral: procrastination is reinforced by short-term relief from anxiety (negative reinforcement).<br>Psychodynamic: unconscious fear of failure/success linked to past experiences. (Other valid pairs OK.)<br><br>中文重點：行為＝負增強；動力＝無意識恐懼。	application multi-perspective week-01
+Why does modern psychology use multiple approaches instead of one?（為何要多取向並用？）	Because behavior and mental processes are complex; a fuller explanation often needs biological + psychological + social viewpoints.<br><br>中文重點：複雜問題需要多角度。	biopsychosocial meta week-01
+
+Compare-template (use this when you get stuck).（比較題解題骨架）	Answer in 3 lines:<br>1) A focuses on ___; B focuses on ___.<br>2) A explains via ___; B explains via ___.<br>3) One-sentence contrast: A = “___” vs B = “___”.<br><br>中文提示：先定「比較軸」，再填空。	strategy comparison week-01

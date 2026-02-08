@@ -1,0 +1,33 @@
+# Anki credentials
+.ankiweb_config
+*.ankiweb_config
+*/.ankiweb_config
+
+# Anki local databases
+*.anki21
+*.anki2
+collection.media/
+*.colpkg
+
+# Anki backup files
+backup/
+*.apkg
+
+# Logs
+*.log
+last-run.log
+weekly-cron.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~

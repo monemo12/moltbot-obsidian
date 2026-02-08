@@ -1,0 +1,45 @@
+# Week 2 (bilingual) - Psychological Research (Unit 1.2)
+# Format: Front[TAB]Back[TAB]Tags
+# Design note: avoid “orphan vocabulary”. Each card includes minimal context + (when relevant) contrast cues.
+
+Why do psychologists rely on scientific research rather than opinion?（為何要靠研究而不是主觀感覺？）	Scientific research uses systematic methods to reduce bias and test claims with evidence that others can evaluate/replicate. It helps separate true effects from anecdotes and expectations.	psychology-research week-02
+
+In research terms, what is a hypothesis?（hypothesis 是什麼？）	A testable, falsifiable prediction about how variables relate (often: if X changes, Y will change).	psychology-research week-02
+
+What is an operational definition, and why does it matter?（操作型定義＋重要性？）	An operational definition specifies exactly **how** a variable is measured or manipulated (e.g., “stress” = cortisol level or self-report score). It matters because it makes a study testable, repeatable, and clearer to critique.	psychology-research week-02
+
+Descriptive vs correlational vs experimental research: what’s the main goal of each?（描述/相關/實驗各在做什麼？）	Descriptive: **describe** behavior (what happens). Correlational: **measure association** between variables (how strongly they vary together). Experimental: **test causation** by manipulating an IV and measuring its effect on a DV under control.	psychology-research week-02
+
+Case study: what is it useful for, and what’s a key limitation?（個案研究：用途＋限制？）	Useful for an in-depth look at a rare/unusual case and for generating hypotheses. Limitation: low generalizability; can’t establish cause.	psychology-research week-02
+
+Naturalistic observation: when is it a good choice, and what’s a common downside?（自然觀察：何時用＋缺點？）	Good when you want real-world behavior in context (high ecological validity). Downside: less control, hard to infer causation; observer bias/participant reactivity can distort behavior.	psychology-research week-02
+
+Survey research: what makes a survey sample more trustworthy?（問卷：什麼讓樣本比較可信？）	A representative sample (ideally random sampling), well-worded unbiased questions, and enough participants to reduce random noise. Watch for response bias/social desirability.	psychology-research week-02
+
+Correlation coefficient (r): what does the sign (+/−) tell you?（相關係數 r 的正負代表？）	The **direction** of the relationship: positive means variables increase together; negative means as one increases, the other tends to decrease.	psychology-research week-02
+
+Correlation coefficient (r): what does the magnitude (|r|) tell you?（|r| 大小代表？）	The **strength** of the linear relationship: closer to 0 = weak; closer to 1 = strong.	psychology-research week-02
+
+Correlation ≠ causation: give the two classic alternative explanations.（相關不等於因果：兩個替代解釋？）	1) **Reverse causation** (Y causes X). 2) **Third variable / confound** (Z causes both X and Y).	psychology-research week-02
+
+Experiment basics: define IV and DV.（實驗：自變項/依變項是什麼？）	Independent variable (IV): what the researcher manipulates. Dependent variable (DV): what the researcher measures as the outcome.	psychology-research week-02
+
+Random assignment vs random sampling: what’s the difference?（隨機分派 vs 隨機抽樣差別？）	Random assignment: randomly place participants into conditions → improves internal validity/causal inference. Random sampling: randomly select participants from a population → improves external validity/generalizability.	psychology-research week-02
+
+Control group vs experimental group: what’s the point?（控制組/實驗組：目的？）	To compare outcomes with and without the IV manipulation. A control condition provides a baseline and helps rule out alternative explanations.	psychology-research week-02
+
+Confound (confounding variable): what is it?（混淆變項是什麼？）	A variable that systematically differs between conditions (besides the IV) and could explain the outcome, threatening causal conclusions.	psychology-research week-02
+
+Internal validity vs external validity (comparison).（內在效度 vs 外在效度）	Axis: **causal certainty vs real-world/generalization**. Cue words: “does X cause Y?” → internal validity; “does this apply to other people/settings?” → external validity. Quick check: A tight lab study may be high internal but lower external.	psychology-research week-02 compare
+
+Reliability vs validity (comparison).（信度 vs 效度）	Axis: **consistency vs accuracy**. Cue words: reliability = “repeatable/consistent”; validity = “measures what it claims”. Quick check: A bathroom scale that is always +2kg is reliable but not valid.	psychology-research week-02 compare
+
+Participant bias / demand characteristics: what is it?（需求特徵/受試者偏差是什麼？）	When participants change behavior because they guess the study’s purpose or want to look good, which can distort results.	psychology-research week-02
+
+Research ethics (humans): name 4 core principles/practices.（人類研究倫理：列 4 個）	Common practices: informed consent (when feasible), minimize risk/harm, confidentiality (protect data/identity), right to withdraw, and debriefing (especially if deception was used).	psychology-research week-02 ethics
+
+Deception in research: when can it be used, and what must happen after?（研究欺瞞：何時可用＋後續？）	Only when necessary for the research question and risk is minimal, and participants must be **debriefed** afterward (told the true purpose and given a chance to ask questions/withdraw data when appropriate).	psychology-research week-02 ethics
+
+Replication: why is it important?（為何要重複驗證？）	Replication tests whether findings are robust (not a fluke, bias, or method artifact). Strong claims should survive repetition across samples/methods.	psychology-research week-02
+
+Apply it: If a headline says “People who drink coffee are more successful,” what are the 3 questions you should ask?（看到「喝咖啡更成功」怎麼想？）	1) Is it correlation or an experiment? 2) Could success cause coffee drinking (reverse causation)? 3) What third variables might explain both (e.g., work hours, job type, income, sleep)?	psychology-research week-02 application
