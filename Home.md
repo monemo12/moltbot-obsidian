@@ -2,7 +2,6 @@
 
 - [[MOC - Knowledge Map]]
 
-- [[Welcome]]
 - [[projects/INDEX]]
 ## Vault core
 - [[TODO]]
