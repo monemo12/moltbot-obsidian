@@ -2,7 +2,7 @@
 
 > 用途：只追蹤「正在進行/被阻塞」的任務代號與狀態。
 > 真正的規格/真相請放在 `projects/` 的 SSoT 文件。
-> 已完成任務請移到 [[TASKS-archive]]。
+> 已完成任務請移到 [[projects/archived/TASKS-archive]]。
 
 ## 進行中
 
