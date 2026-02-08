@@ -1,9 +1,7 @@
 # MOC - Knowledge Map
 
-> Vault 的總入口（Knowledge Map）。
-
-## Start here
-- [[Home]]
+> 這頁是 vault 的「總覽地圖」（導航用）。
+> 唯一入口請從：[[Home]]
 
 ## Core
 - [[projects/INDEX]]
@@ -14,5 +12,5 @@
 - [[inbox/2026-02-08 Inbox]]
 - [[projects/daily-memory-format]]
 
-## Imported (legacy / pending cleanup)
-- [[_import/Imported-Workspace-Index]]
+## Return
+- [[Home]]
