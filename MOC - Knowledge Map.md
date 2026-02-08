@@ -8,6 +8,7 @@
 ## Core
 - [[projects/INDEX]]
 - [[MOC - Learning Systems]]
+- [[MOC - Prompts]]
 
 ## Inbox / Daily
 - [[inbox/2026-02-08 Inbox]]
