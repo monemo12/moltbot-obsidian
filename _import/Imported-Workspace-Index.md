@@ -13,5 +13,6 @@
 - [[DTD-002-完成報告]]
 
 ## Folders
+- [[MOC - Prompts]]
 - - [[learning-systems/INDEX]]
-- [[_import/folders/prompts]]
+- [[MOC - Prompts]]
