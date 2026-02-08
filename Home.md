@@ -1,26 +1,16 @@
 # Home
 
-
+## Start here
 - [[projects/INDEX]]
-## Vault core
+
+## Core
+- [[MOC - Learning Systems]]
+- [[MOC - Prompts]]
 - [[TODO]]
 - [[TASKS]]
-- [[MOC - Learning Systems]]
-- [[MOC - Prompts]]
 
-## Inbox
+## Today
 - [[inbox/2026-02-08 Inbox]]
 
-
-## Knowledge Map
-## Core
-- [[projects/INDEX]]
-- [[MOC - Learning Systems]]
-- [[MOC - Prompts]]
-
-## Inbox / Daily
-- [[inbox/2026-02-08 Inbox]]
+## Rules
 - [[projects/daily-memory-format]]
-
-## Return
-- [[Home]]
