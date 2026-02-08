@@ -3,3 +3,6 @@
 anki.log
 *.pyc
 __pycache__/
+
+# Generated Anki packages
+*.apkg
