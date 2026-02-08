@@ -16,6 +16,3 @@ This folder contains **Single Source of Truth (SSoT)** documents: the authoritat
 ## How to use this index
 - If you’re looking for “what’s true right now”, start here.
 - Daily logs should link to these SSoT docs instead of duplicating content.
-
-## Deliverables / Reports
-- [[projects/DTD-002/完成報告|DTD-002 完成報告]]
