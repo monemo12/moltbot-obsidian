@@ -5,6 +5,7 @@
 ## 起點
 - [[projects/learning-system-builder-template]]
 - [[LEARNING_SYSTEM_TEMPLATE]]
+- [[learning-systems/LEARNING_SYSTEM_TEMPLATE]]
 
 ## Psychology (General)
 - [[learning-systems/psychology-general/system]]

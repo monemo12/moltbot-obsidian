@@ -1,5 +1,7 @@
 # General Psychology - Resources / 普通心理學資源 📚
 
+- [[MOC - Learning Systems]]
+
 *Curated + AI-generated learning materials / 策展＋AI 生成教材（英文為主、中文輔助）*
 
 ---
@@ -210,3 +212,9 @@ Psychological research aims to answer questions about behavior using evidence ra
 
 *Resources prepared: 2026-02-02*  
 *Last updated (bilingual pass): 2026-02-03*  
+
+## Next
+- 
+
+## Links
+- 

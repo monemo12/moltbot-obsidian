@@ -1,5 +1,7 @@
 # Home
 
+- [[MOC - Knowledge Map]]
+
 - [[Welcome]]
 - [[projects/INDEX]]
 - [[_import/Imported-Workspace-Index]]
