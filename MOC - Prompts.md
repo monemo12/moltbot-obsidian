@@ -6,5 +6,5 @@
 - [[prompts/Coordinator.zh]]
 
 ## Links
-- [[MOC - Knowledge Map]]
+- [[Home]]
 - [[Home]]
