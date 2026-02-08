@@ -1,5 +1,7 @@
 # General Psychology Learning System / 普通心理學學習系統 🧠
 
+- [[MOC - Learning Systems]]
+
 *Based on LEARNING_SYSTEM_TEMPLATE.md v2.0*
 
 ---
